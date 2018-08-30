@@ -6,8 +6,9 @@ tags:
     - blog
     - NexT
 categories: 算法
-mathjax: true
 ---
+
+[TOC]
 ### 算法简介
 The Jaro–Winkler distance (Winkler, 1990)是计算2个字符串之间相似度的一种算法。它是Jaro distance算法的变种。主要用于record linkage/数据连接（duplicate detection/重复记录）方面的领域，Jaro–Winkler distance最后得分越高说明相似度越大。Jaro–Winkler distance 是适合于串比如名字这样较短的字符之间计算相似度。0分表示没有任何相似度，1分则代表完全匹配。
 
@@ -65,19 +66,3 @@ print(jaro.jaro_metric("MARTHA".decode("utf-8"),"MARHTA".decode("utf-8")))
 
 1. 多进程
 2. pandas
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

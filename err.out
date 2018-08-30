@@ -1,0 +1,1197 @@
+[43mWARN [49m ===============================================================
+[43mWARN [49m ========================= ATTENTION! ==========================
+[43mWARN [49m ===============================================================
+[43mWARN [49m  NexT repository is moving here: https://github.com/theme-next 
+[43mWARN [49m ===============================================================
+[43mWARN [49m  It's rebase to v6.0.0 and future maintenance will resume there
+[43mWARN [49m ===============================================================
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:369:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:369:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:369:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:369:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:894:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:894:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:894:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:894:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:894:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:894:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:894:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:894:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:894:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:894:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:894:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:894:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:894:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:894:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:894:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:894:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:894:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:894:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:904:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:904:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:476:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:476:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:476:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:476:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:476:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:476:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:476:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:476:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:476:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:476:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:476:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:476:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:476:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
+[41mERROR[49m ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+[33mError: ENOENT: no such file or directory, open '/Users/xingshulin/Documents/per_blog/themes/next/layout/_scripts/schemes/.swig'
+    at Object.openSync (fs.js:443:3)
+    at Object.readFileSync (fs.js:348:35)
+    at Object.ret.load (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/loaders/filesystem.js:55:15)
+    at exports.Swig.compileFile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:694:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:497:13), <anonymous>:429:18)
+    at compiled (/Users/xingshulin/Documents/per_blog/node_modules/swig-templates/lib/swig.js:618:18)
+    at Theme._View.View._compiled.locals [as _compiled] (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:124:48)
+    at Theme._View.View.View.render (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/theme/view.js:29:15)
+    at route.set (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/index.js:386:29)
+    at tryCatcher (/Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /Users/xingshulin/Documents/per_blog/node_modules/bluebird/js/release/method.js:15:34
+    at RouteStream._read (/Users/xingshulin/Documents/per_blog/node_modules/hexo/lib/hexo/router.js:134:3)
+    at RouteStream.Readable.read (_stream_readable.js:449:10)
+    at resume_ (_stream_readable.js:888:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)[39m
