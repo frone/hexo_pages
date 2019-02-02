@@ -2,8 +2,8 @@
 title: Hdfs的block块
 date: 2017-02-10 18:00:00
 tags:
-    - etl tool
-categories: Hive
+    - HDFS
+categories: spark
 ---
 
 # Hdfs的block块
